@@ -7,6 +7,8 @@ public class Component extends BusinessObject {
 	private String description;
 	private String name;
 	private String materialDescription;
+	private int id;
+	
 
 	public String getDescription() {
 		return description;
